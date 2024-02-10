@@ -1,0 +1,11 @@
+
+n	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥Ç8Œà³Ù1
+s	java:S117›"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™µ¶€şÿÿÿÿ8Œà³Ù1
+t
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(ŸÜŞÛ8 à³Ù1
+X
+java:S26962"6Make the enclosing method "static" or remove this set.(ñõîÙşÿÿÿÿ8¤à³Ù1
+G	java:S106K"+Replace this use of System.out by a logger.(´ÿ½¬8­à³Ù1
+[
+java:S1155a">Use isEmpty() to check whether the collection is empty or not.(şßÿË8©à³Ù1
+G	java:S106n"+Replace this use of System.out by a logger.(ïÃŸ8øİµ‘Ù1

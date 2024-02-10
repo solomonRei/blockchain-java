@@ -1,0 +1,11 @@
+
+q
+java:S1104	"TMake fileName a static final constant or non-public and provide accessors if needed.(ªúˆ…8àà¤¢Ø1
+K
+java:S1444	".Make this "public static fileName" field final(ªúˆ…8áà¤¢Ø1
+G	java:S106"+Replace this use of System.out by a logger.(ï»¸“8êà¤¢Ø1
+L	java:S106"+Replace this use of System.out by a logger.(…ªÔŸıÿÿÿÿ8ëà¤¢Ø1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ìà¤¢Ø1
+L	java:S106"+Replace this use of System.out by a logger.(Ø²¢ñøÿÿÿÿ8ìà¤¢Ø1
+e
+java:S1128"CRemove this unused import 'blockchain.domain.TransactionSimulator'.(ØôéŞıÿÿÿÿ8“áÙÂØ1
